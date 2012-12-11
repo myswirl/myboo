@@ -2,3 +2,5 @@ aeÎªÒôÆµÌáÈ¡¹¤¾ß(audion extract)£¬´ÓswfÌáÈ¡³ömp3£¬Îªconsole³ÌÐò£¬Ö»Ö§³ÖÃüÁîÐÐµ÷Ó
 
 1.Ê×ÏÈÅÐ¶ÏÃüÁîÐÐ²ÎÊý¸öÊýÊÇ·ñÎª3£»
 2.ÅÐ¶Ïarg[1]µÄswf£¨Ö¸¶¨Â·¾¶ºÍµ±Ç°Â·¾¶£©ÎÄ¼þÊÇ·ñ´æÔÚ£¬ÎÄ¼þ¸ñÊ½ÊÇ·ñÎªswf£»
+
+2012Äê12ÔÂ11ÈÕ10:55:16
